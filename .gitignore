@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.envrc
+.venv/
+ENV/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Django
+*.sqlite3
+db.sqlite3
+media/
+
+# PyCharm
+*.iml
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Unit test / coverage
+htmlcov/
+.coverage
+.cache
+pytest_cache/
+
+# Matplotlib
+*.png
+*.jpg
+
+# Pygame
+*.sav
+
+# Environment variables
+.env
+
+# Misc
+*.swp

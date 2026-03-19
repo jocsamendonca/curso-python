@@ -1,0 +1,3 @@
+No Python, podemos trabalhar com arquivos
+No Python, podemos programar com orientação a objetos
+No Python, podemos trabalhar com funções, listas, tuplas e dicionários
